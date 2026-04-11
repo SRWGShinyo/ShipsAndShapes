@@ -2,7 +2,6 @@
 title: Welcome to Ships and Shapes!
 date: 2026-03-29
 enableToc: false
-socialImage: /static/ShipShap.png
 ---
 
 **When you think about it, maybe we should treat everything as a product.**
